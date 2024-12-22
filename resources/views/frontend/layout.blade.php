@@ -1,17 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>CarRental &mdash; Free Website Template by Colorlib</title>
+    <title>Rindu Rental</title>
     <meta charset="utf-8" />
     <meta
       name="viewport"
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
 
-    <link
-      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap"
-      rel="stylesheet"
-    />
+    <link rel="icon" href="frontend/images/rent.png" type="image/x-icon"/> 
 
     <link rel="stylesheet" href="{{ asset('frontend/fonts/icomoon/style.css') }}" />
 
@@ -43,7 +40,7 @@
           <div class="row align-items-center position-relative">
             <div class="col-3">
               <div class="site-logo">
-                <a href="{{ url('/') }}"><strong>CarRental</strong></a>
+                <img src="frontend\images\logorental.png" alt="RINDU RENTAL"/>
               </div>
             </div>
 
@@ -63,7 +60,7 @@
                   </li>
                   <li><a href="{{ url('daftar-mobil') }}" class="nav-link">Daftar Mobil</a></li>
                   </li>
-                  <li><a href="{{ url('blog') }}" class="nav-link">Blog</a></li>
+                  <!-- <li><a href="{{ url('blog') }}" class="nav-link">Blog</a></li> -->
                   <li><a href="{{ url('tentang-kami') }}" class="nav-link">Tentang Kami</a></li>
                   <li><a href="{{ url('kontak') }}" class="nav-link">Kontak</a></li>
                 </ul>
@@ -114,49 +111,7 @@
                 </li>
               </ul>
             </div>
-            <div class="col-lg-8 ml-auto">
-              <div class="row">
-                <div class="col-lg-3">
-                  <h2 class="footer-heading mb-4">Quick Links</h2>
-                  <ul class="list-unstyled">
-                    <li><a href="#">About Us</a></li>
-                    <li><a href="#">Testimonials</a></li>
-                    <li><a href="#">Terms of Service</a></li>
-                    <li><a href="#">Privacy</a></li>
-                    <li><a href="#">Contact Us</a></li>
-                  </ul>
-                </div>
-                <div class="col-lg-3">
-                  <h2 class="footer-heading mb-4">Resources</h2>
-                  <ul class="list-unstyled">
-                    <li><a href="#">About Us</a></li>
-                    <li><a href="#">Testimonials</a></li>
-                    <li><a href="#">Terms of Service</a></li>
-                    <li><a href="#">Privacy</a></li>
-                    <li><a href="#">Contact Us</a></li>
-                  </ul>
-                </div>
-                <div class="col-lg-3">
-                  <h2 class="footer-heading mb-4">Support</h2>
-                  <ul class="list-unstyled">
-                    <li><a href="#">About Us</a></li>
-                    <li><a href="#">Testimonials</a></li>
-                    <li><a href="#">Terms of Service</a></li>
-                    <li><a href="#">Privacy</a></li>
-                    <li><a href="#">Contact Us</a></li>
-                  </ul>
-                </div>
-                <div class="col-lg-3">
-                  <h2 class="footer-heading mb-4">Company</h2>
-                  <ul class="list-unstyled">
-                    <li><a href="#">About Us</a></li>
-                    <li><a href="#">Testimonials</a></li>
-                    <li><a href="#">Terms of Service</a></li>
-                    <li><a href="#">Privacy</a></li>
-                    <li><a href="#">Contact Us</a></li>
-                  </ul>
-                </div>
-              </div>
+    
             </div>
           </div>
           <div class="row pt-5 mt-5 text-center">
@@ -168,9 +123,8 @@
                   <script>
                     document.write(new Date().getFullYear());
                   </script>
-                  All rights reserved | This template is made with
-                  <i class="icon-heart text-danger" aria-hidden="true"></i> by
-                  <a href="https://colorlib.com" target="_blank">Colorlib</a>
+                  All rights reserved | Rindu Rental
+                  
                   <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                 </p>
               </div>

@@ -1,13 +1,13 @@
 @extends('frontend.layout')
 
 @section('content')
-<div class="hero" style="background-image: url('{{ asset('frontend/images/hero_1_a.jpg') }}')">
+<div class="hero" style="background-image: url('{{ asset('frontend/images/background.jpg') }}')">
         <div class="container">
           <div class="row align-items-center justify-content-center">
             <div class="col-lg-10">
               <div class="row mb-5">
                 <div class="col-lg-7 intro">
-                  <h1><strong>Sewa Mobil</strong> Dengan Satu Sentuhan.</h1>
+                  <h1><strong>Sewa Mobil</strong> Dengan Satu Sentuhan</h1>
                 </div>
               </div>
 
@@ -59,8 +59,7 @@
                   <span class="number text-primary">01.</span>
                   <h3>Pilih Mobil</h3>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                    Vero, laboriosam!
+                    Anda dapat memilih mobil yang tersedia di website kami
                   </p>
                 </div>
               </div>
@@ -72,8 +71,7 @@
                   <span class="number text-primary">02.</span>
                   <h3>Isi Form</h3>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                    Vero, laboriosam!
+                    Setelah menentukan pilihan, Anda bisa mengifi form sewa yang sudah disesuaikan
                   </p>
                 </div>
               </div>
@@ -85,8 +83,7 @@
                   <span class="number text-primary">03.</span>
                   <h3>Pembayaran</h3>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                    Vero, laboriosam!
+                    Pembayaran bisa dilakukan saat penyerahan kunci secara langsung
                   </p>
                 </div>
               </div>
@@ -114,10 +111,11 @@
                 >
               </h3>
               <p class="mb-5">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Repudiandae, explicabo iste a labore id est quas, doloremque
-                veritatis! Provident odit pariatur dolorem quisquam,
-                voluptatibus voluptates optio accusamus, vel quasi quidem!
+              Selamat datang di Rindu Rental, solusi terbaik untuk kebutuhan 
+              transportasi Anda di Tanjungpinang! Kami hadir untuk memberikan 
+              pengalaman berkendara yang nyaman, fleksibel, dan terpercaya bagi 
+              masyarakat maupun wisatawan. Dengan layanan sewa kendaraan 24 jam, 
+              kami memastikan mobilitas Anda tetap lancar tanpa hambatan.
               </p>
 
               <p><a href="#" class="btn btn-primary">Kontak Kami</a></p>
@@ -132,7 +130,7 @@
             <div class="col-lg-7">
               <h2 class="section-heading"><strong>Daftar Mobil</strong></h2>
               <p class="mb-5">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                Tersedia berbagai jenis mobil terbaik
               </p>
             </div>
           </div>
@@ -181,7 +179,7 @@
             <div class="col-lg-7">
               <h2 class="section-heading"><strong>Testimonial</strong></h2>
               <p class="mb-5">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                Testimonial dari para pelanggan kami.
               </p>
             </div>
           </div>

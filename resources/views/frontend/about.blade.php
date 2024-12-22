@@ -1,7 +1,7 @@
 @extends('frontend.layout')
 
 @section('content')
-<div class="hero inner-page" style="background-image: url('{{ asset('frontend/images/hero_1_a.jpg') }}');">
+<div class="hero inner-page" style="background-image: url('{{ asset('frontend/images/background.jpg') }}');">
         
         <div class="container">
           <div class="row align-items-end ">
@@ -26,7 +26,7 @@
             <img src="{{ asset('frontend/images/hero_2.jpg') }}" alt="Image" class="img-fluid rounded">
           </div>
           <div class="col-lg-4 mr-auto">
-            <h2>Car Company</h2>
+            <h2>Tentang Rindu Rental</h2>
             <p>{{ $setting->tentang_perusahaan }}</p>
           </div>
         </div>
@@ -37,7 +37,7 @@
       <div class="container">
         <div class="row justify-content-center text-center mb-5 section-2-title">
           <div class="col-md-6">
-            <h2 class="mb-4">Meet Our Team</h2>
+            <h2 class="mb-4">Team Kami</h2>
           </div>
         </div>
         <div class="row align-items-stretch">
@@ -69,7 +69,7 @@
             <img src="{{ asset('frontend/images/hero_1.jpg') }}" alt="Image" class="img-fluid rounded">
           </div>
           <div class="col-lg-4 ml-auto">
-            <h2>Our History</h2>
+            <h2>Story Rindu Rental</h2>
               <p>{{ $setting->sejarah_perusahaan }}</p>
             </div>
         </div>

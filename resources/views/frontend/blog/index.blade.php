@@ -2,7 +2,7 @@
 
 @section('content')
  
-<div class="hero inner-page" style="background-image: url('{{ asset('frontend/images/hero_1_a.jpg') }}');">
+<div class="hero inner-page" style="background-image: url('{{ asset('frontend/images/background.jpg') }}');">
         
         <div class="container">
           <div class="row align-items-end ">
