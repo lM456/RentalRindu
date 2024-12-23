@@ -8,7 +8,7 @@ _Anggota Kelompok_: <br>
 2201020021 [Cindi Claudia](https://github.com/cindiclaudia) <br>
 2201020057 [Rika Cintia](https://github.com/rika2305) <br>
 
-## Screenshots
+## Screenshots Menu User
 ![Halaman Beranda](public/frontend/images/Screenshot(899).png)
 ![Pemesanan Rental Mobil](public/frontend/images/Screenshot(900).png)
 ![Kontak Kami](public/frontend/images/Screenshot(901).png)
@@ -18,6 +18,15 @@ _Anggota Kelompok_: <br>
 
 
 *To access admin page, add url /login. Example http://127.001:8000/login 
+
+## Screenshots Menu Admin
+![Halaman Beranda](public/frontend/images/Screenshot(911).png)
+![Kelola User](public/frontend/images/Screenshot(912).png)
+![Kelola Mobil](public/frontend/images/Screenshot(913).png)
+![Kelola Teams](public/frontend/images/Screenshot(914).png)
+![Kelola Pesan](public/frontend/images/Screenshot(915).png)
+![Kelola Booking](public/frontend/images/Screenshot(916).png)
+![Kelola Testimonials](public/frontend/images/Screenshot(917).png)
 
 
 **DOWNLOAD**
