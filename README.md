@@ -10,6 +10,11 @@ _Anggota Kelompok_: <br>
 
 ## Screenshots
 ![Halaman Beranda](public/frontend/images/Screenshot(899).png)
+![Pemesanan Rental Kendaraan](public/frontend/images/Screenshot(900).png)
+![Kontak Kami](public/frontend/images/Screenshot(901).png)
+![Daftar Mobil](public/frontend/images/Screenshot(902).png)
+![Testimonial](public/frontend/images/Screenshot(903).png)
+![About Us](public/frontend/images/Screenshot(904).png)
 
 *To access admin page, add url /login. Example [http://127.001:8000/login](http://127.0.0.1:8000/login)*
 
