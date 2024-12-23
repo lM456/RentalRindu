@@ -16,10 +16,11 @@ _Anggota Kelompok_: <br>
 ![Testimonial](public/frontend/images/Screenshot(903).png)
 ![About Us](public/frontend/images/Screenshot(904).png)
 
+<br>
 *To access admin page, add url /login. Example [http://127.001:8000/login](http://127.0.0.1:8000/login)*
 
-
-**DOWNLOAD:**
+<br>
+**DOWNLOAD**
 ```bash
 Clone Project: git clone https://github.com/lM456/RentalRindu.git nama_projek,
 Buat database baru dengan nama rindurental, lalu import SQL rentcar,
