@@ -17,7 +17,7 @@ _Anggota Kelompok_: <br>
 ![About Us](public/frontend/images/Screenshot(904).png)
 
 <br>
-*To access admin page, add url /login. Example [http://127.001:8000/login](http://127.0.0.1:8000/login)*
+*To access admin page, add url /login. Example http://127.001:8000/login*
 
 <br>
 **DOWNLOAD**
