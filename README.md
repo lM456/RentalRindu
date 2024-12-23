@@ -12,14 +12,12 @@ _Anggota Kelompok_: <br>
 '''markdown
 ![Halaman Beranda](publilc/frontend/image/Screenshots(899).png)
 
-*To access admin page, add url /login. Example http://[127.001:8000/login](http://127.0.0.1:8000/login)*
+*To access admin page, add url /login. Example [http://127.001:8000/login](http://127.0.0.1:8000/login)*
+
 
 **DOWNLOAD:**
 Clone Project
 ```bash
 git clone https://github.com/lM456/RentalRindu.git nama_projek
-```markdown
-Masuk ke folder dengan perintah
-cd nama_project
-Ketik perintah untuk menjalankan laravel pada localhost
-php artisan serve
+Masuk ke folder dengan perintah: cd nama_project
+Ketik perintah untuk menjalankan laravel pada localhost: php artisan serve
