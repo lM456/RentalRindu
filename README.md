@@ -6,7 +6,7 @@ _Anggota Kelompok_: <br>
 2201020019 [Arinda Amalia Putri](https://github.com/arndalya) <br>
 2201020041 [Amelia](https://github.com/Mellias) <br>
 2201020021 [Cindi Claudia](https://github.com/cindiclaudia) <br>
-2201020059 [Rika Cintia](https://github.com/rika2305) <br>
+2201020057 [Rika Cintia](https://github.com/rika2305) <br>
 
 ## Screenshots
 ![Halaman Beranda](public/frontend/images/Screenshot(899).png)
