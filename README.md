@@ -16,10 +16,10 @@ _Anggota Kelompok_: <br>
 ![Testimonial](public/frontend/images/Screenshot(903).png)
 ![About Us](public/frontend/images/Screenshot(904).png)
 
-<br>
-*To access admin page, add url /login. Example http://127.001:8000/login*
 
-<br>
+*To access admin page, add url /login. Example http://127.001:8000/login 
+
+
 **DOWNLOAD**
 ```bash
 Clone Project: git clone https://github.com/lM456/RentalRindu.git nama_projek,
