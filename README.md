@@ -10,20 +10,17 @@ _Anggota Kelompok_: <br>
 
 **DOWNLOAD:**
 Clone Project
-'''bash
-git clone https://github.com/lM456/RentalRindu.git nama_projek
-<br>
+```bash
+git clone https://github.com/lM456/RentalRindu.git nama_projek <br>
 Masuk ke folder dengan perintah
-'''bash
-cd nama_project
-<br>
+```bash
+cd nama_project <br>
 Ketik perintah untuk menjalankan laravel pada localhost
-'''bash
-php artisan serve
-<br>
+```bash
+php artisan serve <br>
 
 ## Screenshots
 '''markdown
-![Halaman Beranda](publilc/frontend/image/
+![Halaman Beranda](publilc/frontend/image/Screenshots(899).png
 
 To access admin page, add url /login. Example http://[127.001:8000/login](http://127.0.0.1:8000/login)
