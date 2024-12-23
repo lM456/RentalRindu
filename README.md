@@ -31,7 +31,12 @@ _Anggota Kelompok_: <br>
 
 **DOWNLOAD**
 ```bash
-Clone Project: git clone https://github.com/lM456/RentalRindu.git nama_projek,
-Buat database baru dengan nama rindurental, lalu import SQL rentcar,
-Masuk ke folder dengan perintah: cd nama_project,
-Ketik perintah untuk menjalankan laravel pada localhost: php artisan serve.
+1. Clone Project: git clone https://github.com/lM456/RentalRindu.git nama_projek,
+2. Buat database baru dengan nama rindurental, lalu import SQL rentcar,
+3. Masuk ke folder dengan perintah: cd nama_project,
+4. Ketik perintah untuk menjalankan laravel pada localhost: php artisan serve.
+
+Login sebagai Admin:
+-email = admin@admin.com
+-password = 123
+
