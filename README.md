@@ -1,42 +1,9 @@
-# Laravel 10 - Rental Mobil
+PROJECT AKHIR PEMROGRAMAN WEB
+SISTEM INFORMASI RENTAL KENDARAAN BERBASIS WEBSITE (STUDI KASUS: RINDU RENTAL TANJUNGPINANG)
 
-## Screenshots
-
-![preview img](/preview.png)
-
-## Donwload
-
-Clone Projek
-
-```bash
-  git clone https://github.com/abdulaziz-m5u/rental-mobil-laravel.git nama_projek
-```
-
-Masuk ke folder dengan perintah
-
-```bash
-  cd nama_projek
-```
-
--   Copy .env.example menjadi .env kemudia edit databasenya
-
-```bash
-    composer install
-```
-
-```bash
-    php artisan key:generate
-```
-
-```bash
-    php artisan artisan migrate:fresh --seed
-```
-
-```bash
-    php artisan storage:link
-```
-
-#### Login
-
--   email = admin@admin.com
--   password = 123
+Anggota Kelompok:
+2201020006 Lisa Mulyana
+2201020019 Arinda Amalia Putri
+2201020041 Amelia
+2201020021 Cindi Claudia
+2201020059 Rika Cintia
