@@ -1,5 +1,5 @@
 PROJECT AKHIR PEMROGRAMAN WEB <br>
-SISTEM INFORMASI RENTAL KENDARAAN BERBASIS WEBSITE
+SISTEM INFORMASI RENTAL MOBIL BERBASIS WEBSITE
 
 _Anggota Kelompok_: <br>
 2201020006 [Lisa Mulyana](https://github.com/lM456) <br>
@@ -10,7 +10,7 @@ _Anggota Kelompok_: <br>
 
 ## Screenshots
 ![Halaman Beranda](public/frontend/images/Screenshot(899).png)
-![Pemesanan Rental Kendaraan](public/frontend/images/Screenshot(900).png)
+![Pemesanan Rental Mobil](public/frontend/images/Screenshot(900).png)
 ![Kontak Kami](public/frontend/images/Screenshot(901).png)
 ![Daftar Mobil](public/frontend/images/Screenshot(902).png)
 ![Testimonial](public/frontend/images/Screenshot(903).png)
